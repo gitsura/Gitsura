@@ -1,2 +1,4 @@
-<h1 align="centre" ></h1> Hi 👋 Iam Varsha</h1>
+<h1 align="centre" >Hi 👋 I'm Varsha</h1>
+<h2 align="centre" > A passionate software developer</h2>
+
 
