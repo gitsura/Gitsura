@@ -1,3 +1,2 @@
-<h1 align="center">Hi 👋, I'm Varsha</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h1> align="centre"  Hi 👋 Iam Varsha</h1>
 
