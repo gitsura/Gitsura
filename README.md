@@ -16,5 +16,5 @@ I take initiative, enjoy solving problems, and approach my work with curiosity a
 My goal is to become a data scientist who not only builds accurate models but also delivers insights that drive real-world impact. I’m especially interested in roles where I can contribute to data-driven innovation, continuously grow my skills, and collaborate with cross-functional teams to turn raw data into meaningful solutions.
 
 Let’s connect and create something extraordinary! 👩‍💻
-https://github.com/gitsura</p>
+https://www.linkedin.com/in/sura-varsha-a0461a2b2/
 
