@@ -1,6 +1,5 @@
 <h1 align="centre" >Hi 👋 I'm Varsha</h1>
 <h2 align="centre" > A Passionate Data Scientist</h2>
-<h2 align="left">About me</h2>
 <p align="left">
 
 🔍 Always curious to explore new technologies, frameworks, and tools.<br>
