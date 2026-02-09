@@ -1,6 +1,6 @@
 <h1 align="centre" >Hi 👋 I'm Varsha</h1>
 <p align="left">
-●🚀 A passionate Data Scientist<br>
+●🚀 A passionate Data Engineer<br>
 ●🔍 Always curious to explore new technologies, frameworks, and tools.<br>
 ●🧠 Strong focus on problem-solving and logic building through daily practice.<br>
 ●🎯 Goal-oriented and committed to continuous improvement.<br>
